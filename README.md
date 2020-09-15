@@ -1,22 +1,9 @@
-# Go2ShellAppleScript
-Open a terminal window to the current directory in Finder by a simple click
+# go2iTerm
 
-## Usage 
+Open a iTerm tab to the current directory in Finder with a simple click.
 
-- Open script with Script Editor.
-	- For Terminal: go2shell.scpt
-	- For iTerm2: go2shell_iTerm2.scpt 
+## Installation and usage
 
-![script](https://github.com/wonderyue/Go2ShellAppleScript/raw/master/script.png)
-	
-- Export script as app use Script Editor. 
-
-![app](https://github.com/wonderyue/Go2ShellAppleScript/raw/master/app.png)
-
-- Hold down the Command key and drag it to the toolbar.
-
-- Click my Go2Shell, a terminal window pop up with current directory. Done!
-
-## Custom App Icon
-
-Right click the app, show contents. There is a file called applet.icns in Resources folder, replace it with what ever you want.
+- Download the go2iTerm application [here](https://github.com/stingalleman/go2iTerm/releases), and drag it to the Applications folder.
+- Click my go2iTerm, and a iTerm tab will pop up with the current directory.
+- You can add the go2iTerm application to the Finder Toolbar by clicking `View > Customize Toolbar` and dragging the go2iTerm application to the menu bar.
